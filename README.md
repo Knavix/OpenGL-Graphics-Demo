@@ -1,6 +1,6 @@
 # OpenGL Textured Cubes
 
-A 3D graphics project built with C++ and OpenGL while working through the fundamentals of the [LearnOpenGL](https://learnopengl.com/) tutorials.
+A 3D graphics project built with C++ and OpenGL while working through the fundamentals openGL basics.
 
 The project renders multiple textured cubes in 3D space, each positioned and rotated independently at different speeds. It was built to practice the core concepts involved in rendering and transforming objects with OpenGL.
 
